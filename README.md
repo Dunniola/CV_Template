@@ -2,7 +2,6 @@
 
 A modern and responsive personal CV/resume website built using HTML5 and Tailwind CSS.
 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -10,10 +9,8 @@ A modern and responsive personal CV/resume website built using HTML5 and Tailwin
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
- 
+- [Project URL](#project-url)
 - [Author](#author)
-
-
 
 ## Overview
 
@@ -23,12 +20,10 @@ Users should be able to:
 
 - View the optimal layout for the CV depending on their device's screen size
 
-
-
 ### Links
 
-- Solution URL: [https://github.com/Dunniola/CV_Template.git](https://github.com/Dunniola/CV_Template.git)
-- Live Site URL: [https://dunniola.github.io/CV_Template/](https://Dunniola.github.io/CV_Template/)
+- Solution URL: [GitHub Repository](https://github.com/Dunniola/CV_Template.git)
+- Live Site URL: [Live Project](https://dunniola.github.io/CV_Template/)
 
 ## My process
 
@@ -39,14 +34,14 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Tailwind Css](https://https://tailwindcss.com/) - For styles
+- [React](https://reactjs.org/) – JS library
+- [Tailwind CSS](https://tailwindcss.com/) – For styles
 
+## Project URL
+
+👉 **Live Project:** [https://dunniola.github.io/CV_Template/](https://dunniola.github.io/CV_Template/)
 
 ## Author
 
-- Website - [https://dunniola.github.io/CV_Template/](https://Dunniola.github.io/CV_Template/)
-
-- Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
-
-
+- Website – [CV Website](https://dunniola.github.io/CV_Template/)
+- Twitter – [@Eduoladunni](https://www.twitter.com/Eduoladunni)
