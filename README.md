@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Dunniola/CV_Template.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [view Demo](https://github.com/Dunniola/CV_Template.git)
+- Live Site URL: [github](https://Dunniola.github.io/CV_Template/)
 
 ## My process
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Dunniola](https://Dunniola.github.io/CV_Template/)
 
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 

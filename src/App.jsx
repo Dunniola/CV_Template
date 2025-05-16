@@ -1,9 +1,15 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 
 function App() {
   return (
     <>
       <Helmet>
+        
+  {/* other meta tags */}
+    <link rel="shortcut icon" href="/favicon.svg" type="image/svg+xml" />
+
+
         
     {/* SEO tags */}
         <meta name="author" content="Edu Zainab oladunni" />
@@ -26,6 +32,9 @@ function App() {
           property="og:description"
           content="Online CV and portfolio of Edu Zainab Oladunni — Junior Frontend Developer based in Lagos, Nigeria."
         />
+
+        <meta property="og:url" content="https://Dunniola.github.io/CV_Template/"/>
+        </Helmet>
         
        
 
@@ -132,7 +141,7 @@ function App() {
             </section>
           </div>
         </div>
-      </Helmet>
+      
     </>
   );
 }
