@@ -45,7 +45,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Dunniola](https://Dunniola.github.io/CV_Template/)
+- Website - [https://dunniola.github.io/CV_Template/](https://Dunniola.github.io/CV_Template/)
 
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
