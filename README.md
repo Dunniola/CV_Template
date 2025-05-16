@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/Dunniola/CV_Template.git)
-- Live Site URL: [Live Project](https://dunniola.github.io/CV_Template/)
+- Repository URL: [GitHub Repository](https://github.com/Dunniola/CV_Template)
+- Project Page URL: [Live Project](https://dunniola.github.io/CV_Template/)
 
 ## My process
 
